@@ -14,16 +14,16 @@ Formatted Mini-Statement: Displays the last 5 transactions in a neat, tabular co
 ### 🖥️ Project Visuals
 
 #### 1. Home Page & Menu
-![Homepage](./Homepage.png.png)
+![Homepage](Homepage.png.png)
 
 #### 2. Registration & Login Flow
-![Registration](./CreateAccountAndLogin.png)
+![Registration](CreateAccountAndLogin.png)
 
 #### 3. Database View (MySQL)
-![Database](./Database.png.png)
+![Database](Database.png.png)
 
 #### 4. Transaction History (Mini Statement)
-![Mini Statement](./Record.png.png)
+![Mini Statement](Record.png.png)
 
 🛠️ How to Run This Project (For Other Users)
 If you want to run this project on your local machine, follow these steps:
