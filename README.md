@@ -17,7 +17,7 @@ Formatted Mini-Statement: Displays the last 5 transactions in a neat, tabular co
 ![Homepage](./Homepage.png.png)
 
 #### 2. Registration & Login Flow
-![Registration](./CreateAccountAndLogi.png)
+![Registration](./CreateAccountAndLogin.png)
 
 #### 3. Database View (MySQL)
 ![Database](./Database.png.png)
